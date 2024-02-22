@@ -1,0 +1,12 @@
+sqlalchemy
+fastapi
+pydantic
+psycopg2-binary
+python-multipart
+httpx
+pytest
+uvicorn
+passlib
+starlette
+python-jose
+pytest
